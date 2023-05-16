@@ -1,0 +1,321 @@
+h1{
+	color:#462AIC;
+	font-size:80px;
+}
+
+h1{
+	font-family:"Music stars";
+}
+
+body{
+	font-size:16px;
+	background:#9b6b43;
+}
+
+
+
+H2{
+	color:#5b1f00;
+	font-family:"Colombard DEMO";
+	font-size:35px;
+}
+
+H3{
+	color:#5b1f00;
+	font-family:"Colombard DEMO";
+	FONT-SIZE:25PX;
+}
+
+h4{
+	color:#320000;
+	font-family:"Take The Money DEMO";
+	font-size:20px;
+}
+
+H5{
+	color:#4B1F2C;
+	font-family:"Lychee Farmland";
+	font-size:25px;
+}
+
+p i{
+	color:#684929;
+}
+
+p strong{
+	color:#533C2B;
+	
+}
+
+li i{
+	color:#3C1B09;
+	
+}
+
+li strong{
+	color:#423025;
+}
+
+div span{
+	width:370px;
+	height:120px;
+	background:#3a0603;
+	color:#fff;
+	font-size:15px;
+	float:left;
+}
+.caja{
+	position:static;
+	top:20px;
+	bottom:0px;
+	right:0px;
+	left:100px;
+	float:left;
+	
+	
+	width:370px;
+	height:120px;
+	background:#3a0603;
+	color:#fff;
+	font-size:15px;
+	
+	margin:15px;
+	padding:15px;
+	
+	
+}
+.caja2{
+	position:static;
+	top:20px;
+	bottom:0px;
+	right:0px;
+	left:100px;
+	float:left;
+	
+	width:370px;
+	height:120px;
+	background:#3a0603;
+	color:#fff;
+	font-size:15px;
+	
+	margin:15px;
+	padding:15px;
+}
+
+.caja3{
+	position:static;
+	top:20px;
+	bottom:0px;
+	right:0px;
+	left:100px;
+	float:left;
+	
+	width:370px;
+	height:120px;
+	background:#3a0603;
+	color:#fff;
+	font-size:15px;
+	
+	margin:15px;
+	padding:15px;
+}
+
+div {
+	width:95%;
+	height:5300px;
+	background:#8d4925;
+	font-size:16px;
+	Margin:40px 40px;
+	padding:4px;
+}
+
+header,.main, footer{
+	width:90%;
+	max-width:80%;
+    margin:20px auto;
+}
+
+header nav{
+	background:#66280a;
+	overflow:hidden;
+}
+
+header nav ul{
+	list-style:none;
+}
+
+header nav ul li{
+	float:left;
+}
+
+header nav ul li a{
+	padding:20px 20px;
+	display:block;
+	color:#fff;
+	text-decoration;none;
+}
+
+header nav ul li a:hover{
+	background:#744B33;
+}
+
+.main .articles{
+	width:68.5%;
+	float:left;
+	background:#874421;
+	margin-right:1.5%
+}
+.main .article article{
+	padding:20px;
+	background:#;
+    margin-bottom:20px;
+}
+
+
+aside{
+	width:30%;
+	background:#9a5833;
+	float:left;
+	padding:20px;
+	box-sizing:border-box;
+}
+	
+footer{
+
+	color:#000;
+	clear:both;
+	padding:10px 0 px;
+	text-align:center;
+	background:#320000;
+}
+
+	
+img{
+	width:250px;
+	height:auto;
+	margin:auto;
+	display:block;
+	border-radius:10px;
+	box-shadow:5px 5px 0px #4b1409;
+}
+ ul{
+	 list-style-type:circle;
+ }
+ 
+ ol{
+	 list-style-type:lower-latin;
+	 
+ }
+ 
+ 
+ 
+ table{
+	 border:1px solid #320000;
+	 border-collapse:collapse;
+ }
+ 
+ table td{
+	 border:1px solid #320000;
+	 padding:10px;
+ }
+ 
+ table tr:hover{
+	 background:#997d60;
+ }
+  
+ table td:hover{
+	 background:#311F19;
+	 color:#fff;
+ }
+ 
+form{
+	width:45%;
+	border:1px solid #ccc;
+	margin:25px;
+	padding:5px;
+	
+}
+
+label{
+	font-size:12px;
+	display:block;
+}
+ 
+ input,textarea{
+	 margin-bottom:20px;
+	 width:100%;
+	 padding:10px;
+	 box-sizing:border-box;
+ }
+ 
+ 
+ 
+
+.menu{
+	width:1500px;
+	background:#050E0D;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+
+
+.menu li a{
+	padding:10px 20px;
+	display:inline-block;
+	color:#430d06;
+}
+
+.menu li a:hover{
+	background:#8a4932;
+	color:#fff;
+}
+
+a{
+	font-size:20px;
+	color:#231706;
+	text-decoration:none;
+	margin:30px 35px 20px 20px;
+	background:#541c0a;
+	box-shadow:0px 5px 0px #320000;
+}
+
+a:link{
+	color:#652A0E;
+	font-family:"Force Of Habit DEMO";
+	font-size:24px;
+}
+
+a:hover{
+	box-shadow:0px 2px 0px #320000;
+	background:#4A2511;
+	color:#fff;
+}
+
+a:active{
+	box-shadow:none;
+	background:#692d18;
+}
+
+a:visited{
+	color:#000;
+}
+ 
+ p{
+	 font-family:"Trebuchet MS";
+	 font-size:16px;
+	 font-weight:normal;
+	 line-height:16px;
+	 text-decoration:none;
+	 letter-spacing:normal;
+
+ }
+ 
+  ul li {
+	 font-family:"Trebuchet MS";
+ }
+ 
+ ol li{
+	 font-family:"Trebuchet MS";
+ }
